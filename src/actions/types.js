@@ -1,0 +1,3 @@
+export const GET_OKRS = 'GET_OKRS';
+export const UPDATE_OKRS = 'UPDATE_OKRS';
+export const UPDATE_LOADER_INDICATOR = 'UPDATE_LOADER_INDICATOR';
